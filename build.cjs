@@ -1,4 +1,3 @@
-process.exit(7);
 const fs = require('node:fs');
 
 fs.mkdirSync('dist', { recursive: true });
